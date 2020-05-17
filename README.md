@@ -6,6 +6,6 @@ Modules used: os
 ## Description
 Path to the folder is taken as input. Using os module, size of all files in the directory and those in each subdirectory<br>
 are summed up
-### Setup
-*os* module is available with Python's Standard Library and does not require installation.
+## Setup
+*os* module is available with Python's Standard Library and does not require installation.<br>
 Run folder_size.py on any python IDE.
